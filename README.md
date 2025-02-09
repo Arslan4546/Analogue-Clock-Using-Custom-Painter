@@ -15,8 +15,7 @@ A beautifully designed **Analog Clock** built using **CustomPainter** in Flutter
 ## 📸 Preview
 
 
-
-https://github.com/user-attachments/assets/aa10e860-c074-4402-aed0-11ad531f0388
+https://github.com/user-attachments/assets/869a6b52-e44c-435e-b6f0-dacd1ed41c3f
 
 
 ## 🛠️ Installation
